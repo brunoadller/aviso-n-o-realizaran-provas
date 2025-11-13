@@ -1,0 +1,6 @@
+from  process_phone_numbers_sheet import process_phone_numbers_sheet
+
+
+relatorio_nao_fizeram_provas = process_phone_numbers_sheet()
+
+print(relatorio_nao_fizeram_provas)
